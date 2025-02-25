@@ -1,0 +1,9 @@
+.grid_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: ;
+}
+
+.grid_element {
+    background-color: aqua;
+}
